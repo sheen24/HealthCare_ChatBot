@@ -31,7 +31,8 @@ The Healthcare Chatbot is a Python-based application designed to assist users in
 1. **Homepage**:  
    - Introduction to the chatbot and its functionalities.  
    - A clear starting point for users to begin the consultation.
-![Screenshot 2024-11-24 155004](https://github.com/user-attachments/assets/bc074420-944b-4498-a867-8eefe0041321)
+[![image](https://github.com/user-attachments/assets/6adb8497-1be0-4b55-9b55-2169ffcb54be)
+](https://github.com/user-attachments/assets/bc074420-944b-4498-a867-8eefe0041321)
 
 
 2. **Symptom Input Section**:  
