@@ -1,5 +1,5 @@
 # HEALTHCARE CHATBOT
-![Screenshot 2024-11-24 155004](https://github.com/user-attachments/assets/4a251f0d-7405-4a6c-8655-1dc4637f19ec)
+![ss1](https://github.com/user-attachments/assets/13051c1e-4170-4687-80cc-11fcb78ca126)
 
 
 
@@ -31,18 +31,20 @@ The Healthcare Chatbot is a Python-based application designed to assist users in
 1. **Homepage**:  
    - Introduction to the chatbot and its functionalities.  
    - A clear starting point for users to begin the consultation.
-[![image](https://github.com/user-attachments/assets/6adb8497-1be0-4b55-9b55-2169ffcb54be)
-](https://github.com/user-attachments/assets/bc074420-944b-4498-a867-8eefe0041321)
+![ss1](https://github.com/user-attachments/assets/fc6467c0-b94b-49bd-8155-21b6e704164c)
+
 
 
 2. **Symptom Input Section**:  
    - A form-like interface for users to enter their symptoms.
- ![Screenshot 2024-11-24 155320](https://github.com/user-attachments/assets/1b0873c7-b536-47d1-a2a8-ca3943ebc5b8)
+![ss2](https://github.com/user-attachments/assets/1ed79f8d-ee2c-4159-b79b-96a6e6e0cc50)
+
 
 
 3. **Duration Query**:  
    - The chatbot interacts with the user to ask how many days the symptoms have been experienced.
-![Screenshot 2024-11-24 155425](https://github.com/user-attachments/assets/f664a1c0-5eb9-4f53-a7b4-3882d64be682)
+![ss3](https://github.com/user-attachments/assets/0a4218e4-5a5b-4fa1-96f1-6cef712189bb)
+
 
 
 4. **Results Section**:  
@@ -52,5 +54,6 @@ The Healthcare Chatbot is a Python-based application designed to assist users in
 
 5. **Consultation Summary Page**:  
    - A dedicated page summarizing the analysis and suggested actions for the user.
- ![Screenshot 2024-11-24 155605](https://github.com/user-attachments/assets/6b8d7a51-ea9c-474c-a07d-583041c34342)
+
+![ss4](https://github.com/user-attachments/assets/9605bad5-474f-4a5c-a7ab-e1a28f3647e5)
 
